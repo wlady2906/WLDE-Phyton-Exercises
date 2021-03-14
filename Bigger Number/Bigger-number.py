@@ -1,6 +1,6 @@
 import os
 import math
-print("Print the bigger number by not using the reserved function max(). Declare a function (def) which execute the same logic")
+print("Print the bigger number by not using the reserved function max(). Declare a function (def) that execute the same logic")
 
 
 def my_max(x,y):
