@@ -4,7 +4,7 @@ A repository where I upload stubs of phyton. they were made for general and espe
 add, substract, multiply or divide. A simulated annealing algorithm is also included yet can be improved and assessed.
 
 
-The following link provide access to the folder containinig the stubs.
+The following link provide access to the folder containing the stubs.
 
 https://www.onlinegdb.com/myfiles
 
